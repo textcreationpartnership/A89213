@@ -1,0 +1,422 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mad designe or, A description of the King of Scots marching in his disguise, after the rout at Worcester, with the particulers where he was, and what he and his company did, every day and night after he fled from Worcester.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89213</idno>
+            <idno type="STC">Wing M236</idno>
+            <idno type="STC">Thomason 669.f.16[32]</idno>
+            <idno type="STC">ESTC R211406</idno>
+            <idno type="EEBO-CITATION">99870135</idno>
+            <idno type="PROQUEST">99870135</idno>
+            <idno type="VID">163188</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163188)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mad designe or, A description of the King of Scots marching in his disguise, after the rout at Worcester, with the particulers where he was, and what he and his company did, every day and night after he fled from Worcester.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Begins with a description of the allegory of the illustration.</note>
+                  <note>Annotation on Thomason copy: "Nouember 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163188:1" rendition="simple:additions"/>
+            <head>A MAD DESIGNE:
+OR,
+A Deſcription of the King of Scots marching in his Diſguiſe, after the
+Rout at Worceſter, With the Particulers where He was, and what He and his Company did, every day and night
+after He fled from WORCESTER.</head>
+            <head>I.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>HARLES ST<g ref="char:V">Ʋ</g>ART</hi>
+ſits upon the Globe, in
+a melancholly poſture,
+between hope and fear,
+hee fixeth his eyes up<g ref="char:EOLhyphen"/>on
+<hi>Brittainy</hi> and <hi>Ireland,</hi> and viewes
+not onely Europe, but the world in
+a landskip, and hath both Pope, Car<g ref="char:EOLhyphen"/>dinall
+and the Fryers Pouch, tyed to
+his Girdle by imagination.</p>
+            <p>II. The Biſhop of <hi>Clogher,</hi> General
+to the Scots King in <hi>Ireland,</hi> at <hi>Maſſe</hi>
+with the Marqueſſe of <hi>Ormond,</hi> and the
+Lord <hi>Inchequeen</hi> attending with Tor<g ref="char:EOLhyphen"/>ches
+at the Altar upon him, and the
+Lord <hi>Taaffe</hi> holding up his train.</p>
+            <p>III. The Scots Army conſiſting of
+four parties and Factions. 1. Papiſts,
+repreſented by the Cardinall and his
+troop in the Van, whereof the Mar<g ref="char:EOLhyphen"/>queſſe
+of <hi>Huntley</hi> is Generall. 2. Pre<g ref="char:EOLhyphen"/>laticall
+Malignants, repreſented by the
+Biſhop and <hi>Callis,</hi> and that fry, the
+Generall of which was the Duke of
+<hi>Buckingham.</hi> 3 Presbyterians repreſen<g ref="char:EOLhyphen"/>ted
+by the two burning Torches,
+one of Engliſh Fugitives, the other of
+Scottiſh brethren, that came for our
+gueds, the two Generalls of which
+are Major Generall <hi>Maſſey,</hi> and the
+Earle of <hi>Leven.</hi> And 4. Old Cavallers,
+repreſented by the fooles head upon
+a pole in the Rear, whereof the Earle
+of <hi>Derby</hi> hath been Generall, and the
+foole upon an Hobby-horſe; wherein
+the Earle of <hi>Cleaveland</hi> hath been his
+Competitor.</p>
+            <p>IV. The two ridiculous Anticks
+one with a Fiddle, and the other with a
+Torch, ſet forth the ridiculouſneſſe of
+their condition when they marched into
+<hi>England,</hi> carried up with high thoughts
+yet altogether in the darke, having
+onely a fooles bawble to be their light
+to walke by, mirth of their own whim<g ref="char:EOLhyphen"/>ſies
+to keep up their ſpirits, and a ſhea<g ref="char:EOLhyphen"/>thed
+ſword to truſt in. And a fooles
+cap was the beſt peece they had to
+make them merry with, as appeared
+by ſeverall intercepted Letters from
+Duke <hi>Hamilton,</hi> the Earle of <hi>Laudor<g ref="char:EOLhyphen"/>dale,</hi>
+and others.</p>
+            <figure/>
+            <p>VI. The Scots Kings flight from Worceſter repreſented
+by the Foole on Horſe-back, riding backward, turning his
+face every way in feares, uſhered by Duke <hi>Hambleton</hi> and
+the Lord <hi>Wilmot,</hi> the particulers of which perambulation
+was thus.</p>
+            <p>1 While he called upon Duke <hi>Hambleton</hi> to ſtirre up his
+men, to keep the Royall Fort at Worceſter, September 3.
+himſelfe gave the ſlip to his Lodging, and fetched away the
+richeſt Treaſure he could preſently come at.</p>
+            <p>2 Whilſt Major <hi>Cobbet</hi> was entring on the one ſide of his
+Houſe, he eſcaped out at a back doore on the other, and a<g ref="char:EOLhyphen"/>bout
+ſeven a clock that night with a party of Horſe poſted
+away from Worceſter, flying towards Scotland.</p>
+            <p>3 The next day being September 4th. <hi>Charles Stuart</hi> the
+Scots King, with the Duke of <hi>Buckingham</hi> and the Lord
+<hi>Wilmot</hi> came to a Country-mans houſe in Cheſhire that
+ſtood alone, and asked for Victuals; the man told them he
+had none fit to entertaine his Majeſty, but if they pleaſed to
+light, he would get what the Country would afford; but
+ſeeing themſelves diſcovered they were afraid, and yet being
+very hungry and dry, asked for any thing they had, and ſome
+cold powthered Beefe was brought to them; the Scots
+King drunke off a Flaggon of Beere, and with a peece of
+Bread in one hand, and of Beefe in the other, the others
+alſo having got each a ſlice away they all rid, and that mor<g ref="char:EOLhyphen"/>ning
+marched into the borders of Lancaſhire, and all that
+day after lay cloſe in a hollow Tree, turning looſe their
+Horſes at a farre diſtance before they came to the place
+where they reſided.</p>
+            <p>4 On the fourth of September at night, they came like
+ſo many Hermits, or <hi>Diogenes's</hi> out of their Tubs, and went
+a Pilgrimage all that night on foot,</p>
+            <p>5 The next day, Septemb. 5. they betooke themſelves
+to hide them in a Wood, and got among Thickets to hide
+themſelves as well as they could, and got ſome Hips and
+Hawes, and ſuch things as they could conveniently get
+(without venturning too farre) in the Wood, where every
+noyſe put them into a feare of being ſurprized.</p>
+            <p>6 On the fifth of September at night they went on their
+journey.</p>
+            <p>7 On the ſixth of September, they came early in the mor<g ref="char:EOLhyphen"/>ning
+to a Shepherds Tent, which they ſurpriſed, and called
+to the Shepherd, who when he had opened the doores, they
+kept him in the Houſe, and would not let him goe out, nor
+his Wife, but diſcourſed about the Gentry thereabouts, by
+meanes whereof they came to know that a Lady in which
+they had ſome confidence Lived neare, whither they haſted
+with all ſpeed; and the Lord <hi>Wilmote</hi> comming to the doore
+got admittance to the Lady, and prevailed with her to give
+them all poſſible aſſiſtance; and the Scots King being come
+to the Lady, and having ſaluted her, they ſate in Counſell to
+conſider how the buſineſſe ſhould be ordered, and it was a<g ref="char:EOLhyphen"/>greed,
+and accordingly done.</p>
+            <p>1 That they ſhould have their haire cut in the Country fa<g ref="char:EOLhyphen"/>ſhion,
+like plaine Country Fellowes, which was done accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <p>2 That they ſhould weare plaine Country faſhioned cloathes,
+which were preſently got for them.</p>
+            <p>3 That they ſhould be reputed to be Servants to the ſaid
+Lady.</p>
+            <p>4 That in this pretence ſhe ſhould goe with them to Briſtol, or
+ſome other Port, to endeavour the tranſporting of them beyond
+the Seas.</p>
+            <p>8 On the ſeaventh and eighth dayes of September they
+lay there, and waited on the Lady in ſeverall offices, and
+places, and the Scots King himſelfe ſtood bare before her
+when he waited on her, as well as the reſt.</p>
+            <p>9 On the ninth of September, they tooke an intended
+voyage for Briſtol, and the Scots King rid before the Lady
+on one Horſe, the Duke of <hi>Buckingham</hi> before her Gentle<g ref="char:EOLhyphen"/>woman
+upon another Horſe, and the Lord <hi>Wilmot</hi> as her
+Groome upon an Horſe by himſelfe.</p>
+            <p>10 About the middle of September they got to Briſtol,
+but they heard in their Inne ſo great talke what ſearch was
+made after them, that they preſently tooke Horſe, not da<g ref="char:EOLhyphen"/>ring
+to ſtay there, and away they came for London.</p>
+            <p>11 About the twentyeth of September they got to
+London, and went abroad ſometimes in the mornings, and
+at evenings, but generally lay very cloſe all day, and the
+Scots King and <hi>Wilmot</hi> waited upon the Lady at one Lodg<g ref="char:EOLhyphen"/>ing,
+and the Duke of <hi>Buckingham</hi> waited as a Serving-man
+to the Gentlewoman at another.</p>
+            <p>12 About the latter end of September, the Scots King
+with the Lady came to ſee his. Souldiers in the Tuttle Fields
+at Weſtminſter, and the Lady threw them ſome monies, but
+they ſtayed not.</p>
+            <p>13 Another day the Scots King came into Weſtminſter
+Hall, and viewed the States Armes over the places of Judi<g ref="char:EOLhyphen"/>catory,
+and viewed the Scots Colours hanging on both
+ſides the Hall, that were taken from his Father, and from
+him.</p>
+            <p>14 The Lord <hi>Wilmot</hi> procured a Merchant to hire a ſhip
+of forty tuns to tranſport them, which coſt them 120. l.</p>
+            <p>15. About the middle of October having taken leave of,
+and thanked the Lady, with many ſalutations and promiſes,
+to Graves-end they went, and from thence on, and a ſhip<g ref="char:EOLhyphen"/>board.</p>
+            <p>16 As ſoon as my Lord was entred the Barque, and the
+King as his Servant; the Maſter of the Veſſell came to
+my Lord, and told him, that he knew the King, and told him,
+That in caſe it ſhould be known he could expect no mercy;
+which ſaying troubled them: But at length what with
+mony and promiſes, they prevailed, and ſo ſet ſaile for
+<hi>Havre de Grace,</hi> where they landed; and from thence to
+<hi>Roven,</hi> where they cloathed themſelves, and writ to <hi>Pa<g ref="char:EOLhyphen"/>ris.</hi>
+            </p>
+            <p>17 The late Queen of <hi>England</hi> his Mother receiving an
+expreſſe from him, made preſent ſupplication to the King
+of <hi>France</hi> for his reception, in which the Queen Mother was
+no little active with her, and ſo he was permitted, and an
+Expreſſe ſent to the Duke of <hi>Orleans</hi> for inſtructions there<g ref="char:EOLhyphen"/>in.</p>
+            <p>18 Anſwer was returned back to appoint him <hi>Jeſſe</hi> by
+the way of <hi>Rhoane,</hi> and ſome ſupplyes of money from his
+Mother was ſent to him; for his better accommodation in
+the way.</p>
+            <p>19 The Scots King being upon his march ſent an Ex<g ref="char:EOLhyphen"/>preſſe,
+giving many thanks for the courteſie, and inform<g ref="char:EOLhyphen"/>ing
+his intentions to be at <hi>Maguy</hi> the 28 (<hi>alias</hi> 18) <hi>October:</hi>
+and hee being advertiſed that there ſhould bee proviſions
+made for him at the <hi>Louver,</hi> he ſent word that he intended
+the 29 (<hi>alias</hi> 19 preſent) to goe from <hi>Maguy</hi> thither.
+On the ſaid 28 of <hi>October,</hi> (which was the Saturday) the
+Scots King had laine the night then pſt within a dayes
+journey of <hi>Maguy;</hi> from whence came an Expreſſe to his
+Royall Highneſſe the Duke of <hi>Orleance,</hi> as alſo Letters from
+his Mother.</p>
+            <p>20 The Duke of <hi>Orleance</hi> ſent forth ſome Coaches from
+<hi>Paris,</hi> to meet him at <hi>Maguy,</hi> where he lay that night.</p>
+            <p>21 And the next day being the Lords Day,
+Scots King came to <hi>Paris,</hi> being met a little from the
+Townes end by the Duke of <hi>Orleance</hi> and ſome others.
+His Highneſſe the Duke of <hi>Orleance</hi> conducted the Scots
+King through part of the City to the Louver, but with no
+ſmall diſcontent of the Citizens, who are ſome of them rea<g ref="char:EOLhyphen"/>dy
+to mutiny about it, and yet many flocked to ſee him, and
+amongſt thoſe divers mocked and jeered; ſo that the great
+reſort ſeemed to be rather in deriſion and ſcorn, then out of
+any good will.</p>
+            <p>His Mother knew ſo well the diſ-affections of the people,
+that ſhe did not come along at all with him, nor did meet
+him, untill ſhe heard that he was come
+to the Louver, and then preſently ſhe
+repaired to him.</p>
+            <p>She hath ſpent moſt part of her time
+of late about the raiſing of a Fabrick at
+<hi>Chaliot,</hi> for the making of a Nunnery,
+from whence ſhe now came to viſit
+her ſon.</p>
+            <p>22 There was then a grave Coun<g ref="char:EOLhyphen"/>cell
+held at the <hi>Louver,</hi> of the Scots
+King, the Duke of <hi>Orleance,</hi> the late
+Queene of <hi>England,</hi> and ſome others,
+who after ſome complements, re<g ref="char:EOLhyphen"/>quired
+a Narrative of the Engliſh Af<g ref="char:EOLhyphen"/>faires,
+the relation whereof produ<g ref="char:EOLhyphen"/>ced
+ſome laughter, at the rediculouſ<g ref="char:EOLhyphen"/>neſſe
+of his condition.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <head>23 The Subſtance of the
+Scots Kings Speech.</head>
+                        <p>The Scots King told them what hap<g ref="char:EOLhyphen"/>pened
+at the fight at <hi>Worceſter;</hi>
+gave ſome reproachful words againſt
+the <hi>Scots,</hi> put ſome ſcurrilous lan<g ref="char:EOLhyphen"/>guage
+on the Presbyterian party in
+<hi>England,</hi> and boaſted much of his
+own valour.</p>
+                        <p>Told them how hee ſlipt out of
+<hi>Worceſter,</hi> and how near he was
+taking there, firſt in the Fort, and
+after in his Chamber:</p>
+                        <p>How he diſguiſed himſelfe and
+went from County to County, and
+what ſhift he made for victualls and
+lodging.</p>
+                        <p>Sometimes being driven to beg
+a peece of bread and meat, and ride
+with bread in one hand and meat in
+the other.</p>
+                        <p>And ſometimes ſetting a Guard
+about a little Cottage while hee
+reſted there untill the morning.
+That he went up and down <hi>London,</hi>
+in a Gentlewomans habit, where he
+ſaith, he never ſaw handſomer
+Coaches then they have now; that
+he met with ſeverall perſons that
+wiſhed him no harme, and that at
+laſt he got to the Sea-coaſt, and
+there imbarqued himſelfe for this
+Coaſt, in a Boat that my Lord
+<hi>Wilmot</hi> had provided and hired
+beforehand. He ſaid he knew no<g ref="char:EOLhyphen"/>thing
+what was become of the Duke
+of <hi>Buckingham;</hi> and that he had
+no other Company or Followers but
+the ſaid <hi>Wilmot,</hi> ſince he lan<g ref="char:EOLhyphen"/>ded.
+He ſaid further, that he
+was never in better health, having
+got no harm at all in the fight.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>24 <hi>Ormond</hi> and <hi>Inchequin</hi> are ſent
+for from Caen, my Lord <hi>Taaffe</hi> from
+Holland, who hath been Treating
+with <hi>Loraine</hi> to undertake the buſi<g ref="char:EOLhyphen"/>neſſe
+of Ireland, which is all agreed
+on, if the King will conſent that <hi>Lor<g ref="char:EOLhyphen"/>raine</hi>
+ſhall have the Title of Protector,
+and the Towne of Lymrick, a cau<g ref="char:EOLhyphen"/>tionary
+Garriſon for his Souldiers.
+Upon theſe conditions he hath under<g ref="char:EOLhyphen"/>taken
+to land ſix thouſand Horſe and
+Foot before Chriſtmas in Ireland.
+<hi>Taaffe</hi> hath already received twenty
+thouſand Piſtols, and about fourteen
+dayes ſince a ſmall Veſſel was ſent to
+Lymrick, to aſſure them of aſſiſt<g ref="char:EOLhyphen"/>ance.</p>
+            <p>25 Some are of opinion that the
+King ſhall ſuddenly make a marriage
+with <hi>Madamaiſelle,</hi> the Queen having
+treated much about it of late.</p>
+            <p>VII. The late Queen of England
+his Mother, with the Dukes of <hi>Orle<g ref="char:EOLhyphen"/>ance,
+Guiſe, Beaufort,</hi> and <hi>Thurenne,</hi>
+with divers Prieſts, and Nuns, came
+to viſite him at the Louver in <hi>Paris,</hi>
+where after they had had conference
+with, and lamented him, they tooke
+their leave and returned; the Lords to
+the Court, and his Mother with her
+Fry to <hi>Chaliot,</hi> where ſhe is erecting
+a Nunnery.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON
+Printed by <hi>Robert Ibbitſon.</hi>
+1651.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
